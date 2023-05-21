@@ -19,7 +19,7 @@ The installer will appear in your downloads. Launch it by double clicking.
 ## Prism/MultiMC
 You will need either Prism Launcher or MultiMC(Prism is recommended, No instructions for MultiMC is provided)
 
-If you have either. Skip to [Importing](## Importing)
+If you have either. Skip to [Importing](##importing)
 
 You can get prism from [their website](https://prismlauncher.org/download/)
 
