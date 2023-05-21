@@ -4,7 +4,7 @@ Want to play bordr?, Heres how to get started.
 ## Java
 You need java 17 or above to play on 1.19.2(S12)
 
-If you already have it, Skip to [Prism/MultiMC](##Prism/MultiMC)
+If you already have it, Skip to [Prism/MultiMC](##prism/multimc)
 
 You can download releases from [Adoptium](https://adoptium.net/)
 
