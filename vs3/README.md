@@ -58,13 +58,7 @@ You must configure the java version.
 You must configure the memory to ensure enough is available for Forge.
 
 Below is a recommended memory amount chart.
-| System Memory | Recommended RAM(GB)  | Recommended RAM(MB) | Performance Level |
-| ------------- | -------------------- | ------------------- | ----------------- |
-| 2GB or less   | Unplayable           |                     | Cannot Launch     |
-| 4GB           | 2GB                  | 2048MB              | Low but playable  |
-| 6GB           | 4GB                  | 4096MB              | Good              |
-| 8GB           | 6GB                  | 6144MB              | Great             |
-| 10GB or more  | 8GB                  | 8192MB              | Perfect           |
+![Memory Chart](https://i.ibb.co/XYfdDL6/Tab-Tip-WPKe-VEk-DGG.png)
 
 Please note that any more than 10GB of ram may actually make your game run worse due to the Java Garbage Collector.
 
