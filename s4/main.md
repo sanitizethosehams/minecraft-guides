@@ -59,12 +59,7 @@ Click ok to save your selection
 You must configure the memory to ensure enough is available for forge.
 
 Below is a recommended memory amount chart.
-| System Memory | Recommended RAM(GB)  | Recommended RAM(MB) | Performance Level |
-| ------------- | -------------------- | ------------------- | ----------------- |
-| 4GB or less   | Unplayable           |                     | Cannot Launch     |
-| 6GB           | 4GB                  | 4096MB              | OK                |
-| 8GB           | 6GB                  | 6144MB              | Great             |
-| 10GB or above | 8GB                  | 8192MB              | Perfect           |
+![Memory Chart](https://i.ibb.co/3TFm9hg/chrome-c-DX5pvjdtk.png)
 
 Please note that any more than 10GB of ram may actually make your game run worse.
 
